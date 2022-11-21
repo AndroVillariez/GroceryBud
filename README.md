@@ -1,2 +1,0 @@
-# GroceryBud
-Created with CodeSandbox
